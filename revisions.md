@@ -1,18 +1,22 @@
-# BDD
+# Révisions
 
-## SQLite 
+Bien préparer vos différents Workspaces VSCode des projets de l'année pour les avoir à disposition si besoin.
+
+## BDD
+
+### SQLite 
 - Création d'un fichier BDD à l'aide de SQLite Studio puis création des tables et colonnes dans SQLite Studio
 - Accès depuis PHP avec PDO : Chemin du fichier de la base. Attention aux persmissions en écriture.
 
-## MySQL
+### MySQL
 - Création depuis le terminal, PHPMyAdmin ou MySQL WorkBench
 - Accès depuis PHP avec PDO : Identifiants (host, port, username, password)
 
-# PDO
+## PDO
 - Exemple de connection et de requête SQL : https://www.php.net/manual/en/pdo.connections.php
 - Voir le projet Jeu de combat ou MVC
 
-# Javascript
+## Javascript
 - variables : https://www.w3schools.com/js/js_variables.asp
 - if/else : https://www.w3schools.com/js/js_if_else.asp ou https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
 - tableaux : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array ou https://www.w3schools.com/js/js_arrays.asp
@@ -26,7 +30,7 @@
 
 - revoir les différentes versions de la Todo List
 
-# PHP
+## PHP
 - variables : https://www.w3schools.com/php/php_variables.asp ou https://www.php.net/manual/en/language.variables.basics.php
 - if/else : https://www.w3schools.com/php/php_if_else.asp ou https://www.php.net/manual/en/control-structures.if.php
 - tableaux : https://www.w3schools.com/php/php_arrays.asp ou https://www.php.net/manual/en/language.types.array.php
@@ -38,7 +42,7 @@
 
 - revoir le jeu de combat et le MVC
 
-# HTML/CSS
+## HTML/CSS
 - principales balises HTML
 - formulaires : différents types d'inputs + method get ou post
 - classes et ID CSS
@@ -48,5 +52,3 @@
 - images de fond
 
 - revoir vos intégrations
-
-Bien préparer vos différents Workspaces VSCode des projets de l'année pour les avoir à disposition
