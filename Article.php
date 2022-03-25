@@ -1,5 +1,3 @@
 <?php
 
-class Article {
-
-}
+// Ici votre class Article

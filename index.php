@@ -2,6 +2,7 @@
 
 // Les étapes peuvent être effectuées indépendament des autres.
 // Si vous bloquez sur une étape, nous vous donnons des possibilités pour faire les étapes suivantes.
+// Vous pouvez notamment commencer par l'étape 5 (intégration)
 
 
 ////////////
@@ -61,4 +62,5 @@ require 'template.html';
 
 //////////
 // Étape supplémentaire
-// Pouvoir cliquer sur un article et 
+// Pouvoir cliquer sur un article et afficher la page de cet article
+// Pouvoir lier des commentaires à cet article
